@@ -35,3 +35,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 package-lock.json
 prisma/dev.db
+package-lock.json
